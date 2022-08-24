@@ -79,6 +79,6 @@ def tampilkan_data(result):
     print (f"Pusat Gempa  : {result['pusat']}")
     print (f"Dirasakan    : {result['dirasakan']}")
 
-#if __name__== '__main__':
-    #print('Aplikasi Utama')
-    #print ('hai')
+if __name__== '__main__':
+    result = ekstrasi_data()
+    tampilkan_data(result)
