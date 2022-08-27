@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="latestearthquake-id",                     # This is the name of the package
+    name="latestearthquake-id-mp97",                     # This is the name of the package
     version="0.0.1",                        # The initial release version
     author="Eko Wijaya",                     # Full name of the author
     author_email="microprojects97@gmail.com",
