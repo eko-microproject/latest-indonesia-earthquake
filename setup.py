@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="latestearthquake-id-mp97",                     # This is the name of the package
-    version="0.0.1",                        # The initial release version
+    version="0.0.2",                        # The initial release version
     author="Eko Wijaya",                     # Full name of the author
     author_email="microprojects97@gmail.com",
     description="This package will get the latest earthquake from BMKG | Meteorological, Climatological, and Geophysical Agency",
